@@ -1,0 +1,589 @@
+---------- start optimizing 1 traffic light ----------
+0,111,9,43,37;10,28,121,13,38;10,28,134,38;10,34,75,31,19,41;134,48,89,63;105,35,67,52,46;52,30,96,74
+sample configuration score is  158.5679347826087
+---------- Iteration 0 ----------
+The most suitable configuration score is  113.33821571238349
+The average score in this generation is  151.1907819810869
+---------- Iteration 1 ----------
+The most suitable configuration score is  129.50060606060606
+The average score in this generation is  146.05763598411377
+---------- Iteration 2 ----------
+The most suitable configuration score is  129.50060606060606
+The average score in this generation is  138.0857037073285
+---------- Iteration 3 ----------
+The most suitable configuration score is  118.18170266836087
+The average score in this generation is  133.7668854461934
+---------- Iteration 4 ----------
+The most suitable configuration score is  118.1659574468085
+The average score in this generation is  129.74643471731397
+---------- Iteration 5 ----------
+The most suitable configuration score is  118.1659574468085
+The average score in this generation is  128.84702237554723
+---------- Iteration 6 ----------
+The most suitable configuration score is  118.1659574468085
+The average score in this generation is  127.91423283670079
+---------- Iteration 7 ----------
+The most suitable configuration score is  108.33210332103322
+The average score in this generation is  125.37831966908797
+---------- Iteration 8 ----------
+The most suitable configuration score is  108.33210332103322
+The average score in this generation is  124.1325253015619
+---------- Iteration 9 ----------
+The most suitable configuration score is  95.43702770780857
+The average score in this generation is  121.15865315641767
+---------- Iteration 10 ----------
+The most suitable configuration score is  95.43702770780857
+The average score in this generation is  118.66507475259525
+---------- Iteration 11 ----------
+The most suitable configuration score is  95.43702770780857
+The average score in this generation is  116.77536405823359
+---------- Iteration 12 ----------
+The most suitable configuration score is  95.43702770780857
+The average score in this generation is  116.73996847386096
+---------- Iteration 13 ----------
+The most suitable configuration score is  95.43702770780857
+The average score in this generation is  116.277225635914
+---------- Iteration 14 ----------
+The most suitable configuration score is  95.43702770780857
+The average score in this generation is  114.92085905489884
+---------- Iteration 15 ----------
+The most suitable configuration score is  95.43702770780857
+The average score in this generation is  113.68003342582497
+---------- Iteration 16 ----------
+The most suitable configuration score is  95.43702770780857
+The average score in this generation is  112.30077812112502
+---------- Iteration 17 ----------
+The most suitable configuration score is  95.43702770780857
+The average score in this generation is  111.68690730264034
+---------- Iteration 18 ----------
+The most suitable configuration score is  95.43702770780857
+The average score in this generation is  109.26496763288033
+---------- Iteration 19 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  107.8304209027782
+---------- Iteration 20 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  107.8304209027782
+---------- Iteration 21 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  106.41871062792629
+---------- Iteration 22 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  106.20859621087234
+---------- Iteration 23 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  105.42626303764055
+---------- Iteration 24 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  104.5371350109129
+---------- Iteration 25 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  104.38263140719671
+---------- Iteration 26 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  104.38263140719671
+---------- Iteration 27 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  104.38263140719671
+---------- Iteration 28 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  104.13556261421101
+---------- Iteration 29 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  103.67469360862114
+---------- Iteration 30 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  103.21831735271587
+---------- Iteration 31 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  103.21831735271587
+---------- Iteration 32 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  102.73605481084898
+---------- Iteration 33 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  102.73605481084898
+---------- Iteration 34 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  102.72620793183964
+---------- Iteration 35 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  102.72620793183964
+---------- Iteration 36 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  102.72620793183964
+---------- Iteration 37 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  102.72620793183964
+---------- Iteration 38 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  102.72620793183964
+---------- Iteration 39 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  102.69143482040263
+---------- Iteration 40 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  102.69143482040263
+---------- Iteration 41 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  102.64529268842293
+---------- Iteration 42 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  102.64529268842293
+---------- Iteration 43 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  102.64529268842293
+---------- Iteration 44 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  102.14740611533611
+---------- Iteration 45 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  101.74023517483484
+---------- Iteration 46 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  101.74023517483484
+---------- Iteration 47 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  101.74023517483484
+---------- Iteration 48 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  101.74023517483484
+---------- Iteration 49 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  101.74023517483484
+---------- Iteration 50 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  101.54294428844283
+---------- Iteration 51 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  101.54294428844283
+---------- Iteration 52 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  101.54294428844283
+---------- Iteration 53 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  101.23752449171282
+---------- Iteration 54 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  100.76173439780278
+---------- Iteration 55 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  100.76173439780278
+---------- Iteration 56 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  100.76173439780278
+---------- Iteration 57 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  100.35543081484346
+---------- Iteration 58 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  100.35543081484346
+---------- Iteration 59 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  100.35543081484346
+---------- Iteration 60 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  100.35543081484346
+---------- Iteration 61 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  100.35543081484346
+---------- Iteration 62 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  100.35543081484346
+---------- Iteration 63 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  100.35543081484346
+---------- Iteration 64 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  100.35543081484346
+---------- Iteration 65 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  100.35543081484346
+---------- Iteration 66 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  100.35543081484346
+---------- Iteration 67 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  100.35543081484346
+---------- Iteration 68 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  100.35543081484346
+---------- Iteration 69 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  100.35543081484346
+---------- Iteration 70 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  100.35543081484346
+---------- Iteration 71 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  100.29990874343932
+---------- Iteration 72 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  100.13215421967713
+---------- Iteration 73 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  100.13215421967713
+---------- Iteration 74 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  100.13215421967713
+---------- Iteration 75 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  99.9899643348947
+---------- Iteration 76 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  99.9899643348947
+---------- Iteration 77 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  99.9899643348947
+---------- Iteration 78 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  99.9899643348947
+---------- Iteration 79 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  99.9899643348947
+---------- Iteration 80 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  99.9899643348947
+---------- Iteration 81 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  99.9899643348947
+---------- Iteration 82 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  99.9899643348947
+---------- Iteration 83 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  99.9899643348947
+---------- Iteration 84 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  99.9899643348947
+---------- Iteration 85 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  99.9899643348947
+---------- Iteration 86 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  99.95954893942951
+---------- Iteration 87 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  99.95954893942951
+---------- Iteration 88 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  99.90493684147485
+---------- Iteration 89 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  99.90493684147485
+---------- Iteration 90 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  99.90493684147485
+---------- Iteration 91 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  99.90493684147485
+---------- Iteration 92 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  99.41190993687135
+---------- Iteration 93 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  99.41190993687135
+---------- Iteration 94 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  99.41190993687135
+---------- Iteration 95 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  99.40983612859229
+---------- Iteration 96 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  99.19414368505666
+---------- Iteration 97 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  99.19414368505666
+---------- Iteration 98 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  99.19414368505666
+---------- Iteration 99 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  99.19414368505666
+---------- Iteration 100 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  99.19414368505666
+---------- Iteration 101 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  99.07115307010818
+---------- Iteration 102 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  99.07115307010818
+---------- Iteration 103 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  99.07115307010818
+---------- Iteration 104 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  99.06142692668638
+---------- Iteration 105 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  99.06142692668638
+---------- Iteration 106 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  99.06142692668638
+---------- Iteration 107 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  99.06142692668638
+---------- Iteration 108 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  99.06142692668638
+---------- Iteration 109 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  99.06142692668638
+---------- Iteration 110 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  99.06142692668638
+---------- Iteration 111 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  99.06142692668638
+---------- Iteration 112 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  99.06142692668638
+---------- Iteration 113 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  99.06142692668638
+---------- Iteration 114 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  99.06142692668638
+---------- Iteration 115 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  99.06142692668638
+---------- Iteration 116 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  99.06142692668638
+---------- Iteration 117 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.92273660934977
+---------- Iteration 118 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.84972755418475
+---------- Iteration 119 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.75344048524934
+---------- Iteration 120 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.75344048524934
+---------- Iteration 121 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.75344048524934
+---------- Iteration 122 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.75344048524934
+---------- Iteration 123 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.75344048524934
+---------- Iteration 124 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.75344048524934
+---------- Iteration 125 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.61409641734696
+---------- Iteration 126 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.61409641734696
+---------- Iteration 127 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.61409641734696
+---------- Iteration 128 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.61409641734696
+---------- Iteration 129 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.61409641734696
+---------- Iteration 130 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.61409641734696
+---------- Iteration 131 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.61409641734696
+---------- Iteration 132 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.61409641734696
+---------- Iteration 133 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.61409641734696
+---------- Iteration 134 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.61409641734696
+---------- Iteration 135 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.61409641734696
+---------- Iteration 136 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.61409641734696
+---------- Iteration 137 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.61409641734696
+---------- Iteration 138 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.61409641734696
+---------- Iteration 139 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.61409641734696
+---------- Iteration 140 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.61409641734696
+---------- Iteration 141 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.61409641734696
+---------- Iteration 142 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.61409641734696
+---------- Iteration 143 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.61409641734696
+---------- Iteration 144 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.61409641734696
+---------- Iteration 145 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.61409641734696
+---------- Iteration 146 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.61409641734696
+---------- Iteration 147 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.61409641734696
+---------- Iteration 148 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.61409641734696
+---------- Iteration 149 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.61409641734696
+---------- Iteration 150 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.61409641734696
+---------- Iteration 151 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.61409641734696
+---------- Iteration 152 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.61409641734696
+---------- Iteration 153 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.61409641734696
+---------- Iteration 154 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.61409641734696
+---------- Iteration 155 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.61409641734696
+---------- Iteration 156 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.61409641734696
+---------- Iteration 157 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.61409641734696
+---------- Iteration 158 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.61409641734696
+---------- Iteration 159 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.61409641734696
+---------- Iteration 160 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.61409641734696
+---------- Iteration 161 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.61409641734696
+---------- Iteration 162 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.61409641734696
+---------- Iteration 163 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.61409641734696
+---------- Iteration 164 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.61409641734696
+---------- Iteration 165 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.61409641734696
+---------- Iteration 166 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.61409641734696
+---------- Iteration 167 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.61409641734696
+---------- Iteration 168 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.61409641734696
+---------- Iteration 169 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.56999533513763
+---------- Iteration 170 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.56999533513763
+---------- Iteration 171 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.43933089053218
+---------- Iteration 172 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.43933089053218
+---------- Iteration 173 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.34128503422694
+---------- Iteration 174 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.15354865214124
+---------- Iteration 175 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.15354865214124
+---------- Iteration 176 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.15354865214124
+---------- Iteration 177 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.15354865214124
+---------- Iteration 178 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.15354865214124
+---------- Iteration 179 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.15354865214124
+---------- Iteration 180 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.15354865214124
+---------- Iteration 181 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.15354865214124
+---------- Iteration 182 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.15354865214124
+---------- Iteration 183 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.15354865214124
+---------- Iteration 184 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.15354865214124
+---------- Iteration 185 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.15354865214124
+---------- Iteration 186 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.15354865214124
+---------- Iteration 187 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.15354865214124
+---------- Iteration 188 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.15354865214124
+---------- Iteration 189 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.15354865214124
+---------- Iteration 190 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.15354865214124
+---------- Iteration 191 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.15354865214124
+---------- Iteration 192 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.11597062099753
+---------- Iteration 193 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.11597062099753
+---------- Iteration 194 ----------
+The most suitable configuration score is  91.26113861386139
+The average score in this generation is  98.11597062099753
+---------- Iteration 195 ----------

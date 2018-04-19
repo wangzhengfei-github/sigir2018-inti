@@ -1,0 +1,14 @@
+<configuration>
+    <input>
+        <net-file value="inti.net.xml"/>
+        <route-files value="inti.rou.xml"/>
+        <gui-settings-file value="inti.settings.xml"/>
+    </input>   
+    <processing>
+	    <lateral-resolution value="1."/>
+    </processing>
+    <time>
+        <begin value="0"/>
+        <end value="2000"/>
+    </time>
+</configuration>
